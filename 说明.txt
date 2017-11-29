@@ -1,0 +1,5 @@
+SSM技术实现
+MySql数据库，数据库文件：myhr.sql
+shiro管理权限
+lucene全文检索员工
+quartz定时发送电子邮件
